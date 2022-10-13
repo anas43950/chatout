@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631999133563",
+    "project_id": "chatout-a932a",
+    "storage_bucket": "chatout-a932a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631999133563:android:6d1be8205f4bb7fb0c2fde",
+        "android_client_info": {
+          "package_name": "com.chatout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631999133563-ojolfneorkp8lkm9ut4ufg3h6leihgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbrucQAktfcX6Nnrz2qZqlW9HQqy6q8eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631999133563-ojolfneorkp8lkm9ut4ufg3h6leihgr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
